@@ -27,9 +27,13 @@
   ## Installation
 
   Step 1: In your integrated terminal for index.js  run: npm init
+  
   Step 2: Then procede with "npm i" This goes and downloads the dependencies
+  
   Step 3: Next write "node index.js" to start the system
+  
   Step 4: Follow the instructions and make sure to read them carefully
+  
   Step 5: Enjoy your professionaly generated readme!
 
 
