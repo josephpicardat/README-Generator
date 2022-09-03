@@ -40,6 +40,8 @@
   ## Usage
 
   ![Sample README](./images/Sample-ReadMe.png)
+  
+  Video Walkthrough Link: https://drive.google.com/file/d/12YZsTZVHvU34b3b7NVEEG_H3_EYJux2v/view?usp=sharing
 
   ## Contributing
 
