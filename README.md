@@ -1,73 +1,58 @@
-# README GENERATOR
+# ReadMe Generator
 
-  ## Description
+## Description
 
-  What was my motivation?
-  - My motivation for this Readme Generator was to create an question based system to generate a professional grade Readme
+What was my motivation?
 
-  Why did I build this project?
-  - I build this project to keep my future projects effiecent and professional
+-   My motivation for this project was to make an easy fun way to write readme's
 
-  What problem does it solve?
-  - This project solves the issue of having a poor readme
+Why did I build this project?
 
-  What did I learn?
-  - I learned how to program an automated system using node.js to create files
-  
+-   I built this project to make writing readme's easier
 
-  ## Table of Contents
+What problem does it solve?
 
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
-  - [License](#license)
+-   It solves the problem of consistently figuring out what to write next in a readme
 
-  ## Installation
+What did I learn?
 
-  Step 1: In your integrated terminal for index.js  run: npm init
-  
-  Step 2: Then procede with "npm i" This goes and downloads the dependencies
-  
-  Step 3: Next write "node index.js" to start the system
-  
-  Step 4: Follow the instructions and make sure to read them carefully
-  
-  Step 5: Enjoy your professionaly generated readme!
+-   I learned how to Inquirer and fs to read and write data
 
+## Table of Contents
 
-  ## Usage
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [Questions](#questions)
+-   [License](#license)
 
-  ![Sample README](./images/Sample-ReadMe.png)
-  
-  Video Walkthrough Link: https://drive.google.com/file/d/12YZsTZVHvU34b3b7NVEEG_H3_EYJux2v/view?usp=sharing
+## Installation
 
-  ## Contributing
+1. Clone the repository to local machine.
+2. Open the project in your code editor of choice.
+3. Access the terminal for the project in the outmost folder (Right click README-Generator and select "Open in intergrated terminal" in VS Code)
+4. Type 'npm i' to install dependencies
+5. Type 'node index.js' to start the readme generator
+6. Follow the Instructions as they come
 
-  The Contributors to this is project than yours truly: myself and I
+## Usage
 
+![Readme Generator](./images/readme_generator.png)
 
-  ## Tests
+## Questions
 
-  No Tests were created for this project
+Github Profile: josephpicardat
 
-  ## Questions
+If you need to reach me, you can with through my email: josephpicardat1@gmail.com
 
-  Github Profile: josephpicardat
+## License
 
-  If you need to reach me, you can with through my email: josephpicardat1@gmail.com
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+(https://opensource.org/licenses/MIT)
 
-  ## License
+Copyright 2024 Joseph Picardat
 
-  ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-  (https://opensource.org/licenses/MIT)
-
-  Copyright 2022 Joseph Picardat
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-    
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
